@@ -1,0 +1,8 @@
+@charset "utf-8";
+.fuente1 {
+	color: #666666;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: x-large;
+	text-align: center;
+	background-color: #33FF00;
+}
